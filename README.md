@@ -16,7 +16,7 @@ Dashboard interactivo que convierte datos crudos del sistema MWD (Measurement Wh
 
 [![Ver Dashboard en Vivo](https://img.shields.io/badge/Ver_Dashboard_en_Vivo-Power_BI_Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZTlkZTNjMjctOWNkMC00MzE0LWEwZWEtMDIwM2NiNjI4MDU4IiwidCI6ImY3YWNmODc2LWU3ZTgtNDQ0Yy05NWFlLWY5NTQ4YWNmZTMyZiIsImMiOjR9)
 
-<sub>🇪🇸 Español · 🇬🇧 English (próximamente)</sub>
+<sub>🇪🇸 Español · [🇬🇧 English](README.en.md)</sub>
 
 ---
 
